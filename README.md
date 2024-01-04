@@ -3,7 +3,7 @@ Examination of Rapid Reset and other DDoS Vulnerabilities
 
 **Experiment**
 
-Tested individual binary frames:
+_Tested individual binary frames:_
 
 Header
 
@@ -16,7 +16,7 @@ Window_Update
 GoAway 
 
 
-Tested by sending a sequences:
+_Tested by sending a sequences:_
 
 HEADER, SETTINGS, and DATA frames
 
